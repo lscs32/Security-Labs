@@ -1,5 +1,5 @@
-# networksecuritylabs
-Network Security Labs
-This repository will house different Network Security labs I did while in Network Security, IT 430
-These labs were conducted in a home lab consisting of my laptop, Virtual Box, and four VMs, including Kali Linux, Windows XP, Windows Server 2016, and Windows 7
+# securitylabs
+Security Labs
+This repository will house different Security labs I do as take on building up my cyber security skills
+These labs will be conducted in a home lab consisting of my laptop, and VMs, including Kali Linux, Windows, and various other tools in the security field
 Documentation of observations noted will mostly be included along with screenshots, and databases where applicable
