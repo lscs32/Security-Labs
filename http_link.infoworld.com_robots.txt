@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /apple-app-site-association
+Disallow: /
+Allow: /public/

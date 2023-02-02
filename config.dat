@@ -1,0 +1,10 @@
+{
+    "reporting/pushpin": {
+        "latitude": 37.7697, 
+        "radius": 1, 
+        "longitude": -122.3933
+    }, 
+    "recon/domains-hosts/netcraft": {
+        "source": "infoworld.com"
+    }
+}
